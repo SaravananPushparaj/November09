@@ -9,6 +9,7 @@ public class First_prg {
 	{
 		
 		System.out.println("Hello world");
+		System.out.println("Welcome");
 		
 	}
 
